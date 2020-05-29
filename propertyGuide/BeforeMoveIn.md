@@ -1,21 +1,21 @@
 ## What need to do before moving in? 
 
-Furniture
-Electical appliance
-Kitchen appliance
-Cutleries
-Grills
-Curtains
-Electricity Meter conversion if single phase
-CCTV
-AlarmD
-Door Locks change
+1. Furniture
+2. Electical appliance
+3. Kitchen appliance
+4. Cutleries
+5. Grills
+6. Curtains
+7. Electricity Meter conversion if single phase
+8. CCTV
+9. AlarmD
+10. Door Locks change
 
 Utilities: 
-Electic
-Water
-IndahWater
-Maintenance/Security
-Cukai Tanah
-Cukai Pintu
-Fire Insurance
+1. Electic
+2. Water
+3. IndahWater
+4. Maintenance/Security
+5. Cukai Tanah
+6. Cukai Pintu
+7. Fire Insurance
